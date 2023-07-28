@@ -1,5 +1,7 @@
 # NITJ Hostel  System
 
+## Demo link :  https://paramvs.site/hostel
+
  NITJ Hostel  System, a web-based application developed to streamline various processes in a hostel setting. The system aims to enhance efficiency, simplify tasks, and improve the overall experience for both students and hostel administrators.
 
 ## Features
